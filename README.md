@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EMES-G&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EMES-G&fontSize=90&animation=scalein)
 
 <!--
 **emes-g/emes-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
