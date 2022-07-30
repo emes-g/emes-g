@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a><br><br><br>
    
-  <h3>:ghost:solved.ac:ghost:</h3>
+  <h3>:ghost:Solved.ac:ghost:</h3>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wat5421"/></a>
    <img src="http://mazandi.herokuapp.com/api?handle=wat5421&theme=warm"/><br><br><br>
   
