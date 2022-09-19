@@ -18,7 +18,7 @@
    
   <h3>:ghost:Solved.ac:ghost:</h3>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wat5421"/></a>
-   <img src="http://mazandi.herokuapp.com/api?handle=wat5421&theme=warm"/><br><br><br>
+   <!--<img src="http://mazandi.herokuapp.com/api?handle=wat5421&theme=warm"/><br><br><br>-->
   
   <h3>:seedling:Github:seedling::</h3>
    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emes-g&langs_count=8"/></a>-->
